@@ -1,8 +1,8 @@
 {
-  "name": "downloadimage.js",
+  "name": "download-image.js",
   "version": "1.0.0",
   "description": "Library with simple API to download an image from a URL to a desired location",
-  "main": "downloadImage.js",
+  "main": "download-image.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
